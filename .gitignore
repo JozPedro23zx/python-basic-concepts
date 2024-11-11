@@ -1,0 +1,4 @@
+__pycache__
+backup_report.txt
+backup.log
+.pytest_cache
